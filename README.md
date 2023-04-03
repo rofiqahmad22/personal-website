@@ -9,5 +9,5 @@ This is Rofiq Ahmad's personal website, the content is:
 
 URL:
 
-- <[rofiqahmadm.vercel.app](https://rofiqahmadm.vercel.app/)>
-- <[rofiqahmad.com](https://rofiqahmad.com/)>
+- [rofiqahmadm.vercel.app](https://rofiqahmadm.vercel.app/)
+- [rofiqahmad.com](https://rofiqahmad.com/)
