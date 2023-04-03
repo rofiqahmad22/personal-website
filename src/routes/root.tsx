@@ -1,4 +1,4 @@
-export default function RootRoute() {
+export function RootRoute() {
   return (
     <>
       <div id="sidebar">
