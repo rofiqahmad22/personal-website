@@ -6,3 +6,8 @@ This is Rofiq Ahmad's personal website, the content is:
 - About page
 - Contact page
 - Project page
+
+URL:
+
+- rofiqahmadm.vercel.app
+- rofiqahmad.com
