@@ -6,16 +6,16 @@ export function RootRoute() {
         <nav className="border-b-2">
           <ul className="flex gap-5">
             <li>
-              <a href={"/contacts/1"}>Home</a>
+              <a href={"/home"}>Home</a>
             </li>
             <li>
-              <a href={"/contacts/2"}>About</a>
+              <a href={"/about"}>About</a>
             </li>
             <li>
-              <a href={"/contacts/2"}>Contact</a>
+              <a href={"/contact"}>Contact</a>
             </li>
             <li>
-              <a href={"/contacts/2"}>Project</a>
+              <a href={"/project"}>Project</a>
             </li>
           </ul>
         </nav>
